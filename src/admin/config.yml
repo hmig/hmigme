@@ -113,5 +113,7 @@ collections:
               - {label: "Slate", name: "slate", widget: "string", default: "hsl(0, 0%, 25%)"}
           - label: "Fonts"
             name: "fonts"
-            widget: "hidden"
-            default: { "base": "\"-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'\"", "serif": "\"'Lora', serif\""}
+            widget: "object"
+            fields: 
+              - {label: "Base", name: "base", widget: "string", default: "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'"}
+              - {label: "Serif", name: "serif", widget: "string", default: "'Lora', serif"}

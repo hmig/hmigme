@@ -1,6 +1,7 @@
 ---
-title: 'Thank you'
-permalink: '/thank-you/index.html'
+title: Thank you
+permalink: /thank-you/index.html
 ---
+Yay! The form submitted and the message is sent. Thanks for taking the time to contact me.  😻
 
-This is your thank you page where if someone fills in your contact form, they will be directed to. Make sure you add a nice message 🙂
+![](https://c.tenor.com/WjoUFaID8ScAAAAC/cat-cute.gif)

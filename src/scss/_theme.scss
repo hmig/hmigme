@@ -25,7 +25,7 @@
 @include dark-mode() {
   --color-bg: #{get-color('dark')};
   --color-bg-glare: #{get-color('slate')};
-  --color-text: #fff;
+  --color-text: #B9B8C2;
   --color-selection-text: #{get-color('dark')};
   --color-selection-bg: #{get-color('light')};
   --color-stroke: #{get-color('slate')};
@@ -36,6 +36,7 @@
   --color-theme-highlight: #{get-color('highlight')};
   --color-theme-highlight-block: #{get-color('slate')};
   --color-theme-feature-text: #fff;
+  --color-theme-main-link: linear-gradient(90deg, hotpink, orange);
 }
 
 body {

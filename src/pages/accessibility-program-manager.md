@@ -1,10 +1,10 @@
 ---
 layout: layouts/page.njk
-title: Accessibility Program Manager
+title: Resume
 permalink: "'/resume.html'"
 metaTitle: Resume
 ---
-
+# Accessibility Program Manager
 
 Over the past year and a half, I have pivoted in my career from engineering to accessibility program management. I convinced my employer, Blackhawk Network, to make me their first dedicated employee working on web accessibility. Within the first year, I developed a comprehensive accessibility plan that is being applied globally.
 
@@ -89,8 +89,6 @@ When Blackhawk Network acquired Giftcards.com, I was brought on to help with the
 ### Western PA Veterinarian Medical Association (2005) Web Designer/Developer
 
 * Created and designed a database driven website for the [WPVMA](http://www.wpvma.org/) utilizing HTML, CSS and PHP/MySQL. Created the original artwork, logo and Flash animation.
-
-
 
 ### Education
 

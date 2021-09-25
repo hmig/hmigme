@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "The $h!t I Wish I’d Been Told About #A11y Post author"
+title: "The $h!t I Wish I’d Been Told About #A11y"
 date: 2015-05-06T03:41:54.341Z
 ---
 Almost a year ago, I attended [JSConf](http://2014.jsconf.us/). It was amazing. I left that conference with SO many great takeaways, the biggest and most challenging for me was web accessibility.

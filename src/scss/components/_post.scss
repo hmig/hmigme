@@ -19,14 +19,15 @@
     }
 
     a:not([class]) {
-      color: #fff;
       position: relative;
       display: inline-block;
-      background: var(--color-theme-highlight);
-      padding: 0.2rem 0.4rem 0.3rem 0.4rem;
       text-decoration: none;
       word-break: break-word;
       font-weight: bold;
+      background: var(--color-theme-main-link);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      -webkit-box-decoration-break: clone;
 
       @include apply-utility('leading', 'tight');
     }

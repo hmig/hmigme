@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Accessibility Program Manager
-permalink: ""
+permalink: resume
 metaTitle: Resume
 ---
 

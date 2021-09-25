@@ -19,8 +19,17 @@
     }
 
     a:not([class]) {
+//       text-decoration: none;
+//       color: var(--color-theme-primary);
+      color: #fff;
+      position: relative;
+      display: inline-block;
       text-decoration: none;
-      color: var(--color-theme-primary);
+      word-break: break-word;
+      font-weight: 700;
+      background: var(--color-theme-highlight-block);
+      padding: .2em;
+      text-shadow: 1px 1px 2px #cc02ff;
      
 
       @include apply-utility('leading', 'tight');

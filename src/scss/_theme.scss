@@ -25,7 +25,7 @@
 @include dark-mode() {
   --color-bg: #{get-color('dark')};
   --color-bg-glare: #{get-color('slate')};
-  --color-text: #fff;
+  --color-text: #{get-color('light')};
   --color-selection-text: #{get-color('dark')};
   --color-selection-bg: #{get-color('light')};
   --color-stroke: #{get-color('slate')};

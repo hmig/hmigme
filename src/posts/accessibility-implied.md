@@ -15,7 +15,9 @@ Good commercial construction builders know these  requirements are a part of ev
 
 ## Process changes: Mobile first
 
-![Mobile First Web Design book seen on a phone, ipad and as a hard copy.](https://ispeakincode.com/wp-content/uploads/2017/09/mobile-first-book-web-development.jpg)Not that long ago, there was a huge challenge given to developers and designers to shoehorn desktop sites into mobile sites. So, what needed to happen was for everyone to think about the mobile design before the desktop design because trying to cram the bloated desktop content into the mobile site wasn’t working. We flipped the design/development process, as we knew it, on its head and now we start with the mobile version.
+![Mobile First Web Design book seen on a phone, ipad and as a hard copy.](https://ispeakincode.com/wp-content/uploads/2017/09/mobile-first-book-web-development.jpg)
+
+Not that long ago, there was a huge challenge given to developers and designers to shoehorn desktop sites into mobile sites. So, what needed to happen was for everyone to think about the mobile design before the desktop design because trying to cram the bloated desktop content into the mobile site wasn’t working. We flipped the design/development process, as we knew it, on its head and now we start with the mobile version.
 
 ## Let’s hit the reset again!
 

@@ -76,7 +76,65 @@ img {
 @import 'components/video-player';
 
 
-@media (prefers-color-scheme: dark), [data-user-color-scheme=dark] {
+@media (prefers-color-scheme: dark) {
+  
+  .post {
+    &__body {
+    a:not([class]) {
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+    word-break: break-word;
+    font-weight: bold;
+    background: var(--color-theme-main-link);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-box-decoration-break: clone;
+      }
+    }
+  }
+  
+  
+  .post-list a {
+	text-decoration: none;
+	background: var(--color-theme-main-link);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-webkit-box-decoration-break: clone;
+	position: relative;
+	padding-bottom: 5px;
+	overflow: hidden;
+	display: inline-block;
+}
+
+.post-list a:before,
+.post-list a:after{
+	content: "";
+	position: absolute;
+	transition: transform 1s ease;
+}
+.post-list a:before{
+	left: -3px;
+	bottom: 0;
+	width: 150%;
+	height: 5px;
+	background: var(--color-theme-main-link);
+	transform: translateX(-100%);
+}
+
+.post-list a:focus:before,
+main a:hover:before{
+	transform: translateX(0);
+}
+
+.post-list a:hover {
+	text-decoration: none !important;
+}
+
+  
+
+}
+[data-user-color-scheme=dark] {
   
   .post {
     &__body {

@@ -21,18 +21,7 @@
     a:not([class]) {
       text-decoration: none;
       color: var(--color-theme-primary);
-      
-       @media (prefers-color-scheme: dark), html[data-user-color-scheme='dark'] & {
-        position: relative;
-        display: inline-block;
-        text-decoration: none;
-        word-break: break-word;
-        font-weight: bold;
-        background: var(--color-theme-main-link);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        -webkit-box-decoration-break: clone;
-      }
+     
 
       @include apply-utility('leading', 'tight');
     }

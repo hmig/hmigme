@@ -22,7 +22,7 @@
       text-decoration: none;
       color: var(--color-theme-primary);
       
-      @include dark-mode() {
+       @media (prefers-color-scheme: dark) {
         position: relative;
         display: inline-block;
         text-decoration: none;

@@ -39,7 +39,7 @@
 
 body {
   color: var(--color-text);
-  background-color: var(--color-bg);
+  background: var(--color-bg);
 }
 
 main {
@@ -48,5 +48,5 @@ main {
 
 ::selection {
   color: var(--color-selection-text);
-  background-color: var(--color-selection-bg);
+  background: var(--color-selection-bg);
 }

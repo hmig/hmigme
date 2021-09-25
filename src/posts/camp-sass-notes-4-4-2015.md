@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Camp Sass Notes (4/4/2015)
+title: Camp Sass Notes
 date: 2015-04-05T03:44:56.085Z
 ---
 [Twitter Tweet](https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&features=eyJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdHdlZXRfZW1iZWRfOTU1NSI6eyJidWNrZXQiOiJodGUiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3NwYWNlX2NhcmQiOnsiYnVja2V0Ijoib2ZmIiwidmVyc2lvbiI6bnVsbH0sInRmd192ZGxfY2hpcnBfMTI3OTQiOnsiYnVja2V0IjoidmRsX29ubHkiLCJ2ZXJzaW9uIjozfX0%3D&frame=false&hideCard=false&hideThread=false&id=584357817689239552&lang=en&origin=https%3A%2F%2Fispeakincode.com%2F&sessionId=2db000740eba09639b54837c8f4cb465dda5e1b5&theme=light&widgetsVersion=1890d59c%3A1627936082797&width=550px)

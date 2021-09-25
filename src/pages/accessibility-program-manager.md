@@ -115,7 +115,7 @@ Bachelor’s Degree in Multimedia and Web Design. Graduated with a 3.9 and on th
 
 #### .net Magazine
 
-Accessible SVG using <object> or <iframe>
+Accessible SVG using `<object>` or `<iframe>`
 
 ## Speaking
 

@@ -2,6 +2,7 @@
 layout: layouts/page.njk
 title: Accessibility Program Manager
 permalink: ""
+metaTitle: Resume
 ---
 
 

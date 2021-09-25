@@ -76,7 +76,7 @@ img {
 @import 'components/video-player';
 
 
-@media (prefers-color-scheme: dark), [data-user-color-scheme="dark"] {
+@media (prefers-color-scheme: dark), [data-user-color-scheme=dark] {
   
   .post {
     &__body {

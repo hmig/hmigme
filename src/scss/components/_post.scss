@@ -19,15 +19,20 @@
     }
 
     a:not([class]) {
-      position: relative;
-      display: inline-block;
       text-decoration: none;
-      word-break: break-word;
-      font-weight: bold;
-      background: var(--color-theme-main-link);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      -webkit-box-decoration-break: clone;
+      color: var(--color-theme-primary);
+      
+      @include dark-mode() {
+        position: relative;
+        display: inline-block;
+        text-decoration: none;
+        word-break: break-word;
+        font-weight: bold;
+        background: var(--color-theme-main-link);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        -webkit-box-decoration-break: clone;
+      }
 
       @include apply-utility('leading', 'tight');
     }

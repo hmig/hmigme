@@ -15,7 +15,7 @@
   }
   
 }
-@media (prefers-color-scheme: dark), [data-user-color-scheme='dark'] {
+@media (prefers-color-scheme: dark), html[data-user-color-scheme='dark'] {
   .post-list a {
 	text-decoration: none;
 	background: var(--color-theme-main-link);

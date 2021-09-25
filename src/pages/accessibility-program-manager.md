@@ -90,7 +90,7 @@ When Blackhawk Network acquired Giftcards.com, I was brought on to help with the
 
 * Created and designed a database driven website for the [WPVMA](http://www.wpvma.org/) utilizing HTML, CSS and PHP/MySQL. Created the original artwork, logo and Flash animation.
 
-### Education
+## Education
 
 #### Duquesne University
 
@@ -100,13 +100,13 @@ Master’s Degree in Media Arts and Technology. Graduated with a 4.0 GPA.
 
 Bachelor’s Degree in Multimedia and Web Design. Graduated with a 3.9 and on the Dean’s List.
 
-### Participant
+## Participant
 
 #### W3C – Invited Expert
 
 [SVG Accessibility API Mappings](https://www.w3.org/TR/svg-aam-1.0/#ack_group)
 
-### Writing
+## Writing
 
 #### CSS-Tricks
 
@@ -117,7 +117,7 @@ Bachelor’s Degree in Multimedia and Web Design. Graduated with a 3.9 and on th
 
 Accessible SVG using <object> or <iframe>
 
-### Speaking
+## Speaking
 
 #### Abstractions.io August 2019
 

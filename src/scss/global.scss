@@ -82,6 +82,7 @@ img {
 .post__body h2,
 .post__body h3,
 .post-list h2{
+  background:linear-gradient(90deg,#4830a7 0,#0792a2 100%);
   position: relative;
   display: inline-block;
   text-decoration: none;
@@ -91,7 +92,6 @@ img {
   -webkit-text-fill-color: transparent;
   -webkit-box-decoration-break: clone;
   text-shadow: none;
-  background:linear-gradient(90deg,#4830a7 0,#0792a2 100%);
 }
 @media(prefers-color-scheme: dark) {
   

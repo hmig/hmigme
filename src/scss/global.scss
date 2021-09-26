@@ -141,7 +141,8 @@ img {
   
   .post__body h1,
   .post__body h2,
-  .post__body h3 {
+  .post__body h3, 
+  .post-list h2{
     position: relative;
     display: inline-block;
     text-decoration: none;
@@ -215,7 +216,8 @@ main a:hover:before{
 
   .post__body h1,
   .post__body h2,
-  .post__body h3 {
+  .post__body h3,
+  .post-list h2{
     position: relative;
     display: inline-block;
     text-decoration: none;

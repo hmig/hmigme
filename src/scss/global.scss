@@ -82,7 +82,6 @@ img {
 	    --color-mode:"dark"
 	}
 
-	:root:not([data-user-color-scheme]) {
           .post {
         &__body {
           a:not([class]) {
@@ -136,7 +135,7 @@ img {
     .post-list a:hover {
       text-decoration: none !important;
     }
-	}
+	
 }
 
 // [data-user-color-scheme=dark] {

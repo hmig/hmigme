@@ -77,6 +77,13 @@ img {
 
 
 //heather hacking away at trying to help switch dark mode styling
+
+.post__body h1,
+.post__body h2,
+.post__body h3,
+.post-list h2{
+  background:linear-gradient(90deg,#4830a7 0,#0792a2 100%);
+}
 @media(prefers-color-scheme: dark) {
   
   :root {

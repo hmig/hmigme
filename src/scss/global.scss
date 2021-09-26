@@ -82,6 +82,15 @@ img {
 .post__body h2,
 .post__body h3,
 .post-list h2{
+  position: relative;
+  display: inline-block;
+  text-decoration: none;
+  word-break: break-word;
+  font-weight: 700;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+  text-shadow: none;
   background:linear-gradient(90deg,#4830a7 0,#0792a2 100%);
 }
 @media(prefers-color-scheme: dark) {
@@ -144,7 +153,6 @@ img {
     .post-list a:hover {
       text-decoration: none !important;
     }
-  }
   
   .post__body h1,
   .post__body h2,
@@ -161,7 +169,7 @@ img {
     -webkit-box-decoration-break: clone;
     text-shadow: none;
   }
-
+  }
 
 }
 

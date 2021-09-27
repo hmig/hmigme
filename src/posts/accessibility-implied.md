@@ -15,13 +15,15 @@ Good commercial construction builders know these  requirements are a part of ev
 
 ## Process changes: Mobile first
 
-![Mobile First Web Design book seen on a phone, ipad and as a hard copy.](https://ispeakincode.com/wp-content/uploads/2017/09/mobile-first-book-web-development.jpg)
+![Mobile First Web Design book seen on a phone, ipad and as a hard copy.](/images/mobile-first-book-web-development.jpeg)
 
 Not that long ago, there was a huge challenge given to developers and designers to shoehorn desktop sites into mobile sites. So, what needed to happen was for everyone to think about the mobile design before the desktop design because trying to cram the bloated desktop content into the mobile site wasn’t working. We flipped the design/development process, as we knew it, on its head and now we start with the mobile version.
 
 ## Let’s hit the reset again!
 
-![Blue Accessibility Icon](https://ispeakincode.com/wp-content/uploads/2017/09/blueicon.jpg)Trying to retrofit accessibility into a website that never had it is very challenging. Rewriting spans that should have been buttons (or worse, links) and fixing many other common faux pas’ can take a lot of time and resources. The way I’ve been doing it, quietly baking it into each project I’m working on. If we are redesigning the homepage, I make sure the homepage comes out accessible (or the best I can do at the time…I’m still learning).
+![Blue Accessibility Icon](/images/blueicon.jpeg)
+
+Trying to retrofit accessibility into a website that never had it is very challenging. Rewriting spans that should have been buttons (or worse, links) and fixing many other common faux pas’ can take a lot of time and resources. The way I’ve been doing it, quietly baking it into each project I’m working on. If we are redesigning the homepage, I make sure the homepage comes out accessible (or the best I can do at the time…I’m still learning).
 
 Wouldn’t it be great if, like a new construction site, we started with accessibility as a normal part of design requirements? And, wouldn’t it be so much easier if we worked from with accessible frameworks? If you know of any that are 100% accessible, please let me know. I am putting my money where my mouth is and giving back by working on the accessibility of open source projects I use (e.g. [WordPress](https://make.wordpress.org/accessibility/)).
 

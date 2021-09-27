@@ -11,4 +11,4 @@ One of my favorite sites to visit is [SimplyAccessible.com](http://simplyaccess
 
 So, if you site is not responsive, you’re missing out on an opportunity to offer low-vision users a better desktop experience AND you missing the boat on mobile traffic. Mobile users have high expectations, if they see the desktop version on their mobile device they don’t even try to deal with it. They just abandon the site. [See how going responsive changes that.](http://www.lukew.com/ff/entry.asp?1939)
 
-![Mobile screenshot of SimplyAccessible.com's site](https://ispeakincode.com/wp-content/uploads/2017/09/00000234.png)
+![Mobile screenshot of SimplyAccessible.com's site](/images/00000234.png)

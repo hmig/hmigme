@@ -8,6 +8,15 @@
     url('/fonts/lora-v13-latin-700.woff') format('woff');
 }
 
+@font-face {
+  font-family: 'WhiteRabbit';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('WhiteRabbit'), local('White Rabbit'),
+    url('/fonts/WhiteRabbit-47pD.ttf') format('ttf');
+}
+
 body {
   // Strip the unit off the size ratio to generate a line height
   $line-height: get-size(600);

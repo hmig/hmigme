@@ -10,24 +10,12 @@ Over the past year and a half, I have pivoted in my career from engineering to a
 
 ## Skills
 
-* VPAT Auditing
-* Using Assistive Technology
-* Project Management
-* Quality Assurance
-* User Experience Advocate
-* Programming
-* Public Speaking
-* Cross-department Collaboration
-* Author
-
-## Technical Skills
-
+* **Accessibility:** Program development and implementation across a global organization, developed a training program and resources for each discipline in the software development life cycle, auditing, mentoring, procuring SaaS tooling/vendor management, design review and contractor management 
 * **Programming Languages:** HTML5, CSS3, jQuery, JavaScript, LESS, Sass, PHP, Symfony, AngularJS, NodeJS, ReactJS
 * **CMS Experience:** WordPress, Timber (WordPress + Sensio Twig)
 * **Responsive Development:** Mobile-First Responsive Web Design
 * **Performance:** Experience with minifying and concatenating JS and CSS, critical CSS and using JavaScript plugins (e.g. respond.js, modernizr, picturefill, loadcss, lazyload)
 * **User Experience:** Experience with wireframing, prototyping and usability testing techniques
-* **Software:** Adobe’s PhotoShop and Illustrator, PhpStorm and Balsalmiq
 * **Version Control:** Github, Bitbucket, Git, SVN
 * **Build Management:** Gulp, Bower, Grunt, Hologram, NodeJS, Webpack
 

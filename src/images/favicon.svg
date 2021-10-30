@@ -1,0 +1,35 @@
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+	<defs>
+		<style>
+			text {
+				fill: #fff;
+				font-size: 380px;
+				font-family: courier, mono;
+			}
+
+			rect {
+				fill: #666;
+			}
+
+			.blink {
+				animation: blink 1s steps(5, start) infinite;
+				-webkit-animation: blink 1s steps(5, start) infinite;
+			}
+
+			@keyframes blink {
+				to {
+					visibility: hidden
+				}
+			}
+
+			@-webkit-keyframes blink {
+				to {
+					visibility: hidden
+				}
+			}
+		</style>
+	</defs>
+	<rect x="0.588" y="-0.566" width="498.851" height="500.709" />
+	<text x="30.826" y="384.507">$</text>
+	<text class="blink" x="261.001" y="300.323">_</text>
+</svg>

@@ -60,6 +60,19 @@ const Page = ({ entry }) => (
       content: markdownFilter(body || ''),
     })}
   />
+)
+
+const TwoColumnPage = ({ entry }) => (
+  <Preview
+    entry={entry}
+    path="layouts/two-column.njk"
+    context={({ title, body }) => ({
+      title,
+      content: markdownFilter(body || ''),
+      intro: markdownFilter(intro || ''),
+      aside: markdownFilter(aside || ''),
+    })}
+  />
 );
 
 const SiteData = ({ entry }) => (
@@ -91,5 +104,6 @@ const Nav = ({ entry }) => (
 CMS.registerPreviewTemplate('home', Home);
 CMS.registerPreviewTemplate('posts', Post);
 CMS.registerPreviewTemplate('generic_pages', Page);
+CMS.registerPreviewTemplate('two_column__pages', Page);
 CMS.registerPreviewTemplate('site_data', SiteData);
 CMS.registerPreviewTemplate('nav', Nav);

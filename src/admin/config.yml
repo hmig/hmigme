@@ -36,8 +36,8 @@ collections:
       - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
       - {label: "Social Image", name: "socialImage", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-      - name: "generic_pages"
-    label: "Two column page"
+  - name: "two_column_pages"
+    label: "Two column pages"
     folder: "src/pages"
     slug: "{{slug}}"
     preview_path: "pages/{{slug}}"

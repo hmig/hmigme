@@ -5,7 +5,7 @@
 {# Intro content #}
 {% set introHeading = title %}
 {% set introSummary %}
-  {{ content | safe }}
+  {{ intro | safe }}
 {% endset %}
 
 {% block content %}
@@ -17,7 +17,7 @@
       </div>
     </article>
     <aside>
-     {{ content | safe }}
+     {{ aside | safe }}
     </aside>
   </main>
 {% endblock %}

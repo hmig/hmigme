@@ -2,7 +2,7 @@
    display: grid;
    margin: auto;
    grid-template-columns: 1fr;
- @media screen and (min-width: 48rem) {
+ @include media-query('md') {
    grid-template-columns: 2fr 1fr;
    column-gap: 2em;
  }

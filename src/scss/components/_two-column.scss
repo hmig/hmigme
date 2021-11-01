@@ -1,0 +1,7 @@
+.two-column-grid{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    max-width: 56em;
+    margin: auto;
+    column-gap: 2em;
+}

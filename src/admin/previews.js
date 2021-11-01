@@ -66,7 +66,7 @@ const TwoColumnPage = ({ entry }) => (
   <Preview
     entry={entry}
     path="layouts/two-column.njk"
-    context={({ title, body }) => ({
+    context={({ title, body, aside, intro }) => ({
       title,
       content: markdownFilter(body || ''),
       intro: markdownFilter(intro || ''),

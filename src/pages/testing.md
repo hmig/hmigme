@@ -1,6 +1,7 @@
 ---
 layout: layouts/two-column.njk
 title: Accessibility Program Manager
+permalink: /resume.html
 intro: Over the past year and a half, I have pivoted in my career from
   engineering to accessibility program management. Blackhawk Network made me
   their first dedicated employee working on web accessibility. Within the first

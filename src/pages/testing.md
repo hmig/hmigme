@@ -1,6 +1,6 @@
 ---
 layout: layouts/two-column.njk
-title: testing  - resume
+title: Accessibility Program Manager
 intro: Over the past year and a half, I have pivoted in my career from
   engineering to accessibility program management. Blackhawk Network made me
   their first dedicated employee working on web accessibility. Within the first
@@ -102,8 +102,6 @@ aside: >-
 
   * [User Testing: The Secret Sauce To Great Meetings](http://www.refreshpittsburgh.org/2013/08/august-2013-meetup/) – August, 2013
 ---
-# Accessibility Program Manager
-
 ## Skills
 
 * **Accessibility:** Program development and implementation across a global organization, developed a training program and resources for each discipline in the software development life cycle, auditing, mentoring, procuring SaaS tooling/vendor management, design review and contractor management 

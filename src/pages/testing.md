@@ -2,11 +2,10 @@
 layout: layouts/two-column.njk
 title: Accessibility Program Manager
 permalink: /resume.html
-intro: Over the past year and a half, I have pivoted in my career from
-  engineering to accessibility program management. Blackhawk Network made me
-  their first dedicated employee working on web accessibility. Within the first
-  year, I developed a comprehensive accessibility plan that is being applied
-  globally.
+intro: Since the beginning of 2020, I have pivoted in my career from engineering
+  to accessibility program management. Blackhawk Network made me their first
+  dedicated employee working on web accessibility. Within the first year, I
+  developed a comprehensive accessibility plan that is being applied globally.
 aside: '<h2 id="heading-education">Education</h2><h4>Duquesne
   University</h4><p>Master’s Degree in Media Arts and Technology. Graduated with
   a 4.0 GPA.</p><h4>The Art Institute of Pittsburgh</h4><p>Bachelor’s Degree in

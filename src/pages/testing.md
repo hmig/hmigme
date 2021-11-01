@@ -2,10 +2,10 @@
 layout: layouts/two-column.njk
 title: testing  - resume
 intro: Over the past year and a half, I have pivoted in my career from
-  engineering to accessibility program management. I convinced my employer,
-  Blackhawk Network, to make me their first dedicated employee working on web
-  accessibility. Within the first year, I developed a comprehensive
-  accessibility plan that is being applied globally.
+  engineering to accessibility program management. Blackhawk Network made me
+  their first dedicated employee working on web accessibility. Within the first
+  year, I developed a comprehensive accessibility plan that is being applied
+  globally.
 aside: >-
   ## Education
 

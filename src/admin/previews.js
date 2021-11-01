@@ -68,7 +68,9 @@ const TwoColumnPage = ({ entry }) => (
     path="layouts/two-column.njk"
     context={({ title, body, aside, intro }) => ({
       title,
-      content: markdownFilter(body || '', aside || '', intro || ''),
+      content: markdownFilter(body || ''),
+      intro: markdownFilter(intro || ''),
+      aside: markdownFilter(aside || ''),
     })}
   />
 );

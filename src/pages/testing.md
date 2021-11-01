@@ -7,7 +7,7 @@ intro: Over the past year and a half, I have pivoted in my career from
   year, I developed a comprehensive accessibility plan that is being applied
   globally.
 aside: >-
-  ## Education
+  ## Education  
 
 
   #### Duquesne University

@@ -1,7 +1,8 @@
 .two-column-grid{
     display: grid;
     grid-template-columns: 2fr 1fr;
-    max-width: 56em;
+    max-width: 58rem !important;
+    padding-right: 0;
     margin: auto;
     column-gap: 2em;
 }

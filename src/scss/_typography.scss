@@ -12,9 +12,7 @@
   font-family: 'WhiteRabbit';
   font-style: normal;
   font-weight: 400;
-  font-display: swap;
-  src: local('WhiteRabbit'), local('White Rabbit'),
-    url('/fonts/WhiteRabbit-47pD.ttf') format('ttf');
+  src: url('/fonts/WhiteRabbit-47pD.ttf') format('ttf');
 }
 
 body {

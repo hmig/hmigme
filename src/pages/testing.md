@@ -20,7 +20,7 @@ aside: '<h2 id="heading-education">Education</h2><h4>Duquesne
   href="https://css-tricks.com/smooth-scrolling-accessibility/">Smooth Scrolling
   and Accessibility</a></li></ul><h4>.net Magazine</h4><p>Accessible SVG using
   <code>&lt;object&gt;</code> or <code>&lt;iframe&gt;</code></p><h2
-  id="heading-speaking">Speaking</h2><h4>Web Directions AAA 2021/h4><p><a
+  id="heading-speaking">Speaking</h2><h4>Web Directions AAA 2021</h4><p><a
   href="https://webdirections.org/aaa/speakers/heather-migliorisi.php">Accessible SVGs</a></p>
   <h4>Abstractions.io August 2019</h4><p><a
   href="https://abstractions.io/schedule/#Easy%20Peasy%20Accessibility-Heather%20Migliorisi">Easy

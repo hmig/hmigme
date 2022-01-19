@@ -14,15 +14,16 @@ aside: '<h2 id="heading-education">Education</h2><h4>Duquesne
   href="https://www.w3.org/TR/svg-aam-1.0/#ack_group">SVG Accessibility API
   Mappings</a></p><h2
   id="heading-writing">Writing</h2><h4>CSS-Tricks</h4><ul><li><a
-  href="https://css-tricks.com/be-prepared-for-failure-and-handle-it-gracefully/">Be Prepared for Failure and Handle it Gracefully
-</a></li><li><a
-  href="https://css-tricks.com/accessible-svgs/">Accessible SVGs</a></li><li><a
+  href="https://css-tricks.com/be-prepared-for-failure-and-handle-it-gracefully/">Be
+  Prepared for Failure and Handle it Gracefully</a></li><li><a
   href="https://css-tricks.com/smooth-scrolling-accessibility/">Smooth Scrolling
-  and Accessibility</a></li></ul><h4>.net Magazine</h4><p>Accessible SVG using
+  and Accessibility</a></li><li><a
+  href="https://css-tricks.com/accessible-svgs/">Accessible
+  SVGs</a></li></ul><h4>.net Magazine</h4><p>Accessible SVG using
   <code>&lt;object&gt;</code> or <code>&lt;iframe&gt;</code></p><h2
-  id="heading-speaking">Speaking</h2><h4>Web Directions AAA 2021</h4><p><a
-  href="https://webdirections.org/aaa/speakers/heather-migliorisi.php">Accessible SVGs</a></p>
-  <h4>Abstractions.io August 2019</h4><p><a
+  id="heading-speaking">Speaking</h2><h4>Web Directions 2021</h4><p><a
+  href="https://webdirections.org/aaa/speakers/heather-migliorisi.php">Accessible
+  SVGs</a></p><h4>Abstractions.io August 2019</h4><p><a
   href="https://abstractions.io/schedule/#Easy%20Peasy%20Accessibility-Heather%20Migliorisi">Easy
   Peasy Accessibility</a></p><h4>Wordcamp Pittsburgh September 2016</h4><p><a
   href="https://2016.pittsburgh.wordcamp.org/session/make-wordpress-accessible/">Make

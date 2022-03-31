@@ -59,7 +59,7 @@ aside: '<h2 id="heading-education">Education</h2><h4>Duquesne
 
 ## Work Experiences
 
-### BlackHawk Network (2020 – Present) Accessibility Program Manager
+### BlackHawk Network (2020 – Present) Senior Accessibility Program Manager
 
 As the accessibility program manager, I have:
 

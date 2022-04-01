@@ -109,8 +109,8 @@ When Blackhawk Network acquired Giftcards.com, I was brought on to help with the
 
 ### Advanced Window and Door (2009-Present) Web Designer/Developer
 
-* Designed and developed the [original Advanced Window and Doorwebsite](https://advanced-window-pa.com/).
-* Currently transitioning to a [new Advanced Window and Doorwebsite](http://www.advanced-window.com/) to a WordPress installation and implementing a responsive web design, HTML5 and CSS3.
+* Designed and developed the [original Advanced Window and Door website](https://web.archive.org/web/20110202110911/http://advanced-window.com/).
+* Currently transitioning to a [new Advanced Window and Door website](http://www.advanced-window.com/) to a WordPress installation and implementing a responsive web design, HTML5 and CSS3.
 
 ### Western PA Veterinarian Medical Association (2005) Web Designer/Developer
 

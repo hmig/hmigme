@@ -32,18 +32,18 @@ aside: '<h2 id="heading-education">Education</h2><h4>Duquesne
   SVGs</a></p><h4>OSCON Online June 2016</h4><p><a
   href="http://conferences.oreilly.com/oscon/open-source-us/public/schedule/detail/48453">Make
   Your Awesome Things Accessible</a></p><h4>Elements June 2016</h4><p><a
-  href="https://elements.psu.edu/">Accessibility Implied</a></p><h4>OSCON May
-  2016</h4><p><a
-  href="http://conferences.oreilly.com/oscon/open-source-us/public/schedule/detail/48453">Make
+  href="https://web.archive.org/web/20160602204318/https://elements.psu.edu/">Accessibility
+  Implied</a></p><h4>OSCON May 2016</h4><p><a
+  href="https://web.archive.org/web/20161220162925/http://conferences.oreilly.com/oscon/oscon-tx-2016/public/schedule/detail/48453">Make
   Your Awesome Things Accessible</a></p><h4>CSS Dev Conf 2015</h4><p><a
   href="https://cssdevconf2015.sched.org/event/3oU2/accessibility-a11ycss">acCeSSibility</a></p><h4>Refresh
   Pittsburgh</h4><ul><li><a
-  href="http://www.refreshpittsburgh.org/2016/01/january-2016-meetup/">An
+  href="https://web.archive.org/web/20210519001736/http://www.refreshpittsburgh.org/2016/01/january-2016-meetup/">An
   Inclusive Web</a>&nbsp;– Thursday, January 28th, 2016</li><li><a
-  href="http://www.refreshpittsburgh.org/2014/09/pittsburgh-accessibility-group-joint-meetup-sept-2014/">Web
+  href="https://web.archive.org/web/20210518233949/http://www.refreshpittsburgh.org/2014/09/pittsburgh-accessibility-group-joint-meetup-sept-2014/">Web
   Accessibility: Overlooked &amp; Unaccounted For</a>&nbsp;– September,
   2014</li><li><a
-  href="http://www.refreshpittsburgh.org/2013/08/august-2013-meetup/">User
+  href="https://web.archive.org/web/20210519002731/http://www.refreshpittsburgh.org/2013/08/august-2013-meetup/">User
   Testing: The Secret Sauce To Great Meetings</a>&nbsp;– August, 2013</li></ul>'
 ---
 ## Skills

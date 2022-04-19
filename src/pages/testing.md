@@ -110,4 +110,4 @@ When Blackhawk Network acquired Giftcards.com, I was brought on to help with the
 
 ### Western PA Veterinarian Medical Association (2005) Web Designer/Developer
 
-* Created and designed a database driven website for the [WPVMA](http://www.wpvma.org/) utilizing HTML, CSS and PHP/MySQL. Created the original artwork, logo and Flash animation.
+* Created and designed a database driven website for the [WPVMA](http://www.wpvma.org/) [[wayback link](https://web.archive.org/web/20090816174051/http://www.wpvma.org/index.php)] utilizing HTML, CSS and PHP/MySQL. Created the original artwork, logo and Flash animation.

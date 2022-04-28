@@ -1,6 +1,6 @@
 ---
 layout: layouts/two-column.njk
-title: Accessibility Program Manager
+title: Senior Accessibility Program Manager
 permalink: /resume.html
 intro: Over the past year and a half, I have pivoted in my career from
   engineering to accessibility program management. Blackhawk Network made me
@@ -55,7 +55,7 @@ aside: '<h2 id="heading-education">Education</h2><h4>Duquesne
 
 ## Work Experiences
 
-### BlackHawk Network (2020 – Present) Accessibility Program Manager
+### BlackHawk Network (2020 – Present) Senior Accessibility Program Manager
 
 As the accessibility program manager, I have:
 

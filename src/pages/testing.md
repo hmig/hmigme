@@ -11,6 +11,7 @@ aside: '<h2 id="heading-education">Education</h2><h4>Duquesne
   University</h4><p>Master’s Degree in Media Arts and Technology. Graduated with
   a 4.0 GPA.</p><h4>The Art Institute of Pittsburgh</h4><p>Bachelor’s Degree in
   Multimedia and Web Design. Graduated with a 3.9 and on the Dean’s List.</p><h2
+  id="credentials">Credentials</h2><h4>CPACC Certified</h4><h2
   id="heading-participant">Participant</h2><h4>W3C – Invited Expert</h4><p><a
   href="https://www.w3.org/TR/svg-aam-1.0/#ack_group">SVG Accessibility API
   Mappings</a></p><h2

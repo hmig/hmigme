@@ -2,15 +2,15 @@
 layout: layouts/two-column.njk
 title: Senior Accessibility Program Manager
 permalink: /resume.html
-intro: Over the past year and a half, I have pivoted in my career from
-  engineering to accessibility program management. Blackhawk Network made me
-  their first dedicated employee working on web accessibility. Within the first
-  year, I developed a comprehensive accessibility plan that is being applied
-  globally.
+intro: Two and a half years ago, I pivoted in my career from engineering to
+  accessibility program management. Blackhawk Network created their first
+  dedicated web accessibility role for me. Within the first year, I developed a
+  comprehensive accessibility plan that is being applied globally.
 aside: '<h2 id="heading-education">Education</h2><h4>Duquesne
   University</h4><p>Master’s Degree in Media Arts and Technology. Graduated with
   a 4.0 GPA.</p><h4>The Art Institute of Pittsburgh</h4><p>Bachelor’s Degree in
   Multimedia and Web Design. Graduated with a 3.9 and on the Dean’s List.</p><h2
+  id="credentials">Credentials</h2><h4>CPACC Certified</h4><h2
   id="heading-participant">Participant</h2><h4>W3C – Invited Expert</h4><p><a
   href="https://www.w3.org/TR/svg-aam-1.0/#ack_group">SVG Accessibility API
   Mappings</a></p><h2
@@ -44,7 +44,7 @@ aside: '<h2 id="heading-education">Education</h2><h4>Duquesne
 ---
 ## Skills
 
-* **Accessibility:** Program development and implementation across a global organization, developed a training program and resources for each discipline in the software development life cycle, auditing, mentoring, procuring SaaS tooling/vendor management, design review and contractor management 
+* **Accessibility:** Program development and implementation across a global organization, developed a training program and resources for each discipline in the software development life cycle, auditing, mentoring, procuring SaaS tooling/vendor management, design review, contractor management and CPACC certified
 * **Programming Languages:** HTML5, CSS3, jQuery, JavaScript, LESS, Sass, PHP, Symfony, AngularJS, NodeJS, ReactJS
 * **CMS Experience:** WordPress, Timber (WordPress + Sensio Twig)
 * **Responsive Development:** Mobile-First Responsive Web Design

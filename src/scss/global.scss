@@ -81,7 +81,6 @@ img {
 
 .post__body h1,
 .post__body h2,
-.post__body h3,
 .post-list h2{
   background:linear-gradient(90deg,#4830a7 0,#06808E 100%);
   position: relative;
@@ -156,8 +155,7 @@ img {
     }
   
   .post__body h1,
-  .post__body h2,
-  .post__body h3, 
+  .post__body h2, 
   .post-list h2{
     position: relative;
     display: inline-block;
@@ -232,7 +230,6 @@ main a:hover:before{
 
   .post__body h1,
   .post__body h2,
-  .post__body h3,
   .post-list h2{
     position: relative;
     display: inline-block;

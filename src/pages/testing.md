@@ -6,34 +6,34 @@ intro: Two and a half years ago, I pivoted in my career from engineering to
   accessibility program management. Blackhawk Network created their first
   dedicated web accessibility role for me. Within the first year, I developed a
   comprehensive accessibility plan that is being applied globally.
-aside: '<h2 id="heading-education">Education</h2><h4>Duquesne
-  University</h4><p>Master’s Degree in Media Arts and Technology. Graduated with
-  a 4.0 GPA.</p><h4>The Art Institute of Pittsburgh</h4><p>Bachelor’s Degree in
+aside: '<h2 id="heading-education">Education</h2><h3>Duquesne
+  University</h3><p>Master’s Degree in Media Arts and Technology. Graduated with
+  a 4.0 GPA.</p><h3>The Art Institute of Pittsburgh</h3><p>Bachelor’s Degree in
   Multimedia and Web Design. Graduated with a 3.9 and on the Dean’s List.</p><h2
-  id="credentials">Credentials</h2><h4>CPACC Certified</h4><h2
-  id="heading-participant">Participant</h2><h4>W3C – Invited Expert</h4><p><a
+  id="credentials">Credentials</h2><h3><a href="https://www.credly.com/badges/dc56d82e-27aa-434e-8e47-21d547841a69/public_url">CPACC Certified</a></h3><h2
+  id="heading-participant">Participant</h2><h3>W3C – Invited Expert</h3><p><a
   href="https://www.w3.org/TR/svg-aam-1.0/#ack_group">SVG Accessibility API
   Mappings</a></p><h2
-  id="heading-writing">Writing</h2><h4>CSS-Tricks</h4><ul><li><a
+  id="heading-writing">Writing</h2><h3>CSS-Tricks</h3><ul><li><a
   href="https://css-tricks.com/accessible-svgs/">Accessible SVGs</a></li><li><a
   href="https://css-tricks.com/smooth-scrolling-accessibility/">Smooth Scrolling
-  and Accessibility</a></li></ul><h4>.net Magazine</h4><p>Accessible SVG using
+  and Accessibility</a></li></ul><h3>.net Magazine</h3><p>Accessible SVG using
   <code>&lt;object&gt;</code> or <code>&lt;iframe&gt;</code></p><h2
-  id="heading-speaking">Speaking</h2><h4>Abstractions.io August 2019</h4><p><a
+  id="heading-speaking">Speaking</h2><h3>Abstractions.io August 2019</h3><p><a
   href="https://abstractions.io/schedule/#Easy%20Peasy%20Accessibility-Heather%20Migliorisi">Easy
-  Peasy Accessibility</a></p><h4>Wordcamp Pittsburgh September 2016</h4><p><a
+  Peasy Accessibility</a></p><h3>Wordcamp Pittsburgh September 2016</h3><p><a
   href="https://2016.pittsburgh.wordcamp.org/session/make-wordpress-accessible/">Make
-  WordPress Accessible</a></p><h4>Abstractions.io August 2016</h4><p><a
+  WordPress Accessible</a></p><h3>Abstractions.io August 2016</h3><p><a
   href="https://web.archive.org/web/20160811174223/http://abstractions.io/schedule/#session-full-32">Accessible
-  SVGs</a></p><h4>OSCON Online June 2016</h4><p><a
+  SVGs</a></p><h3>OSCON Online June 2016</h3><p><a
   href="http://conferences.oreilly.com/oscon/open-source-us/public/schedule/detail/48453">Make
-  Your Awesome Things Accessible</a></p><h4>Elements June 2016</h4><p><a
+  Your Awesome Things Accessible</a></p><h3>Elements June 2016</h3><p><a
   href="https://web.archive.org/web/20160602204318/https://elements.psu.edu/">Accessibility
-  Implied</a></p><h4>OSCON May 2016</h4><p><a
+  Implied</a></p><h3>OSCON May 2016</h3><p><a
   href="https://web.archive.org/web/20161220162925/http://conferences.oreilly.com/oscon/oscon-tx-2016/public/schedule/detail/48453">Make
-  Your Awesome Things Accessible</a></p><h4>CSS Dev Conf 2015</h4><p><a
-  href="https://cssdevconf2015.sched.org/event/3oU2/accessibility-a11ycss">acCeSSibility</a></p><h4>Refresh
-  Pittsburgh</h4><ul><li><a
+  Your Awesome Things Accessible</a></p><h3>CSS Dev Conf 2015</h3><p><a
+  href="https://cssdevconf2015.sched.org/event/3oU2/accessibility-a11ycss">acCeSSibility</a></p><h3>Refresh
+  Pittsburgh</h3><ul><li><a
   href="https://web.archive.org/web/20210519001736/http://www.refreshpittsburgh.org/2016/01/january-2016-meetup/">An
   Inclusive Web</a>&nbsp;– Thursday, January 28th, 2016</li><li><a
   href="https://web.archive.org/web/20210518233949/http://www.refreshpittsburgh.org/2014/09/pittsburgh-accessibility-group-joint-meetup-sept-2014/">Web

@@ -10,8 +10,10 @@ aside: '<h2 id="heading-education">Education</h2><h3>Duquesne
   University</h3><p>Master’s Degree in Media Arts and Technology. Graduated with
   a 4.0 GPA.</p><h3>The Art Institute of Pittsburgh</h3><p>Bachelor’s Degree in
   Multimedia and Web Design. Graduated with a 3.9 and on the Dean’s List.</p><h2
-  id="credentials">Credentials</h2><h3><a href="https://www.credly.com/badges/dc56d82e-27aa-434e-8e47-21d547841a69/public_url">CPACC Certified</a></h3><h2
-  id="heading-participant">Participant</h2><h3>W3C – Invited Expert</h3><p><a
+  id="credentials">Credentials</h2><h3><a
+  href="https://www.credly.com/badges/dc56d82e-27aa-434e-8e47-21d547841a69/public_url">CPACC
+  Certified</a></h3><h2 id="heading-participant">Participant</h2><h3>W3C –
+  Invited Expert</h3><p><a
   href="https://www.w3.org/TR/svg-aam-1.0/#ack_group">SVG Accessibility API
   Mappings</a></p><h2
   id="heading-writing">Writing</h2><h3>CSS-Tricks</h3><ul><li><a
@@ -97,17 +99,3 @@ When Blackhawk Network acquired Giftcards.com, I was brought on to help with the
 * Designed and developed a complete set of training modules for Sharp Electronics (CD), which entailed a creating a custom player interface using Flash and implementing all of the content for the project.
 * Other eLearning projects included: Sheetz, Ford, and US Steel.
 
-## Freelance Experience
-
-### Kind Girls Mentor Program (2015)
-
-* Worked as part of a team to develop an accessible website as part of the [Open Air Challenge](http://air-rallies.org/)
-
-### Advanced Window and Door (2009-Present) Web Designer/Developer
-
-* Designed and developed the [original Advanced Window and Door site](https://web.archive.org/web/20110202110911/https://www.advanced-window.com/) with Flash, HTML and CSS
-* Transitioned the [new Advanced Window and Door site](http://www.advanced-window.com/) to a WordPress installation and implementing a responsive web design, HTML5 and CSS3.
-
-### Western PA Veterinarian Medical Association (2005) Web Designer/Developer
-
-* Created and designed a database driven website for the [WPVMA](http://www.wpvma.org/) [[wayback link](https://web.archive.org/web/20090816174051/http://www.wpvma.org/index.php)] utilizing HTML, CSS and PHP/MySQL. Created the original artwork, logo and Flash animation.

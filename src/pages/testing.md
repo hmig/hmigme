@@ -35,7 +35,7 @@ aside: >-
 * **CMS Experience:** WordPress, Timber (WordPress + Sensio Twig)
 * **Responsive Development:** Mobile-First Responsive Web Design
 * **Performance:** Experience with minifying and concatenating JS and CSS, critical CSS and using JavaScript plugins (e.g. respond.js, modernizr, picturefill, loadcss, lazyload)
-* **User Experience:** Experience with wireframing, prototyping and usability testing techniques
+* **User Experience:** Experience with wire-framing, prototyping and usability testing techniques
 * **Version Control:** Github, Bitbucket, Git, SVN
 * **Build Management:** Gulp, Bower, Grunt, Hologram, NodeJS, Webpack
 
@@ -47,7 +47,7 @@ As the accessibility program manager, I have:
 
 * Implemented an accessibility plan for each step of the software development lifecycle and agile process.
 * Released mandatory training and built a resource repository for product owners, designers, developers, quality assurance and customer service representatives.
-* Prioritized and audited several ecommerce sites from all across the globe producing:
+* Prioritized and audited several e-commerce sites from all across the globe producing:
 
   * WCAG 2.1 AA, revised Section 508 and EN 301 549 compliance reports
   * Detailed issues for bug tracking and
@@ -72,7 +72,7 @@ When Blackhawk Network acquired Giftcards.com, I was brought on to help with the
 ### Oncology Nursing Society (2006-2013) Web Designer/Developer
 
 * Designed and developed responsive conference websites ([Connections 2012](https://web.archive.org/web/20120930071721/http://connections.ons.org:80/), Connections 2013 and [Congress 2013](https://web.archive.org/web/20130605025615/http://ibuilder.ons.org)) utilizing HTML5/CSS3 and jQuery
-* Implemented UX techniques such as wireframing, prototyping and usability testing
+* Implemented UX techniques such as wire-framing, prototyping and usability testing
 * Designed and developed [TheCancerJourney.org](https://web.archive.org/web/20140106071808/http://thecancerjourney.org/ "Thank you, way back machine!!!") website and logo (the main part of the site no longer exists)
 * Developed several online courses (coded and designed interactive elements with the course facilitator)
 * Learning Management System (LMS) administrator

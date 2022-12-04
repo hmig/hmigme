@@ -18,6 +18,8 @@ aside: >-
   href="https://www.w3.org/TR/svg-aam-1.0/#ack_group">SVG Accessibility API
   Mappings</a></p><h2
   id="heading-writing">Writing</h2><h3>CSS-Tricks</h3><ul><li><a
+  href="https://css-tricks.com/be-prepared-for-failure-and-handle-it-gracefully/">Be
+  Prepared for Failure and Handle it Gracefully</a></li><li><a
   href="https://css-tricks.com/accessible-svgs/">Accessible SVGs</a></li><li><a
   href="https://css-tricks.com/smooth-scrolling-accessibility/">Smooth Scrolling
   and Accessibility</a></li></ul><h3>.net Magazine</h3><p>Accessible SVG using

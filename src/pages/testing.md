@@ -6,7 +6,8 @@ intro: Two and a half years ago, I pivoted in my career from engineering to
   accessibility program management. Blackhawk Network created their first
   dedicated web accessibility role for me. Within the first year, I developed a
   comprehensive accessibility plan that is being applied globally.
-aside: '<h2 id="heading-education">Education</h2><h3>Duquesne
+aside: >-
+  <h2 id="heading-education">Education</h2><h3>Duquesne
   University</h3><p>Master’s Degree in Media Arts and Technology. Graduated with
   a 4.0 GPA.</p><h3>The Art Institute of Pittsburgh</h3><p>Bachelor’s Degree in
   Multimedia and Web Design. Graduated with a 3.9 and on the Dean’s List.</p><h2
@@ -21,28 +22,11 @@ aside: '<h2 id="heading-education">Education</h2><h3>Duquesne
   href="https://css-tricks.com/smooth-scrolling-accessibility/">Smooth Scrolling
   and Accessibility</a></li></ul><h3>.net Magazine</h3><p>Accessible SVG using
   <code>&lt;object&gt;</code> or <code>&lt;iframe&gt;</code></p><h2
-  id="heading-speaking">Speaking</h2><h3>Abstractions.io August 2019</h3><p><a
-  href="https://abstractions.io/schedule/#Easy%20Peasy%20Accessibility-Heather%20Migliorisi">Easy
-  Peasy Accessibility</a></p><h3>Wordcamp Pittsburgh September 2016</h3><p><a
-  href="https://2016.pittsburgh.wordcamp.org/session/make-wordpress-accessible/">Make
-  WordPress Accessible</a></p><h3>Abstractions.io August 2016</h3><p><a
-  href="https://web.archive.org/web/20160811174223/http://abstractions.io/schedule/#session-full-32">Accessible
-  SVGs</a></p><h3>OSCON Online June 2016</h3><p><a
-  href="http://conferences.oreilly.com/oscon/open-source-us/public/schedule/detail/48453">Make
-  Your Awesome Things Accessible</a></p><h3>Elements June 2016</h3><p><a
-  href="https://web.archive.org/web/20160602204318/https://elements.psu.edu/">Accessibility
-  Implied</a></p><h3>OSCON May 2016</h3><p><a
-  href="https://web.archive.org/web/20161220162925/http://conferences.oreilly.com/oscon/oscon-tx-2016/public/schedule/detail/48453">Make
-  Your Awesome Things Accessible</a></p><h3>CSS Dev Conf 2015</h3><p><a
-  href="https://cssdevconf2015.sched.org/event/3oU2/accessibility-a11ycss">acCeSSibility</a></p><h3>Refresh
-  Pittsburgh</h3><ul><li><a
-  href="https://web.archive.org/web/20210519001736/http://www.refreshpittsburgh.org/2016/01/january-2016-meetup/">An
-  Inclusive Web</a>&nbsp;– Thursday, January 28th, 2016</li><li><a
-  href="https://web.archive.org/web/20210518233949/http://www.refreshpittsburgh.org/2014/09/pittsburgh-accessibility-group-joint-meetup-sept-2014/">Web
-  Accessibility: Overlooked &amp; Unaccounted For</a>&nbsp;– September,
-  2014</li><li><a
-  href="https://web.archive.org/web/20210519002731/http://www.refreshpittsburgh.org/2013/08/august-2013-meetup/">User
-  Testing: The Secret Sauce To Great Meetings</a>&nbsp;– August, 2013</li></ul>'
+  id="heading-speaking">Speaking</h2>
+
+  <h3>Web Directions AAA October/November 2021</h3><p><a href="https://webdirections.org/aaa21/speakers/heather-migliorisi.php">Accessible SVGs</a></p>
+
+  <h3>Abstractions.io August 2019</h3><p><a href="https://abstractions.io/schedule/#Easy%20Peasy%20Accessibility-Heather%20Migliorisi">Easy Peasy Accessibility</a></p><h3>Wordcamp Pittsburgh September 2016</h3><p><a href="https://2016.pittsburgh.wordcamp.org/session/make-wordpress-accessible/">Make WordPress Accessible</a></p><h3>Abstractions.io August 2016</h3><p><a href="https://web.archive.org/web/20160811174223/http://abstractions.io/schedule/#session-full-32">Accessible SVGs</a></p><h3>OSCON Online June 2016</h3><p><a href="http://conferences.oreilly.com/oscon/open-source-us/public/schedule/detail/48453">Make Your Awesome Things Accessible</a></p><h3>Elements June 2016</h3><p><a href="https://web.archive.org/web/20160602204318/https://elements.psu.edu/">Accessibility Implied</a></p><h3>OSCON May 2016</h3><p><a href="https://web.archive.org/web/20161220162925/http://conferences.oreilly.com/oscon/oscon-tx-2016/public/schedule/detail/48453">Make Your Awesome Things Accessible</a></p><h3>CSS Dev Conf 2015</h3><p><a href="https://cssdevconf2015.sched.org/event/3oU2/accessibility-a11ycss">acCeSSibility</a></p><h3>Refresh Pittsburgh</h3><ul><li><a href="https://web.archive.org/web/20210519001736/http://www.refreshpittsburgh.org/2016/01/january-2016-meetup/">An Inclusive Web</a>&nbsp;– Thursday, January 28th, 2016</li><li><a href="https://web.archive.org/web/20210518233949/http://www.refreshpittsburgh.org/2014/09/pittsburgh-accessibility-group-joint-meetup-sept-2014/">Web Accessibility: Overlooked &amp; Unaccounted For</a>&nbsp;– September, 2014</li><li><a href="https://web.archive.org/web/20210519002731/http://www.refreshpittsburgh.org/2013/08/august-2013-meetup/">User Testing: The Secret Sauce To Great Meetings</a>&nbsp;– August, 2013</li></ul>
 ---
 ## Skills
 
@@ -51,7 +35,7 @@ aside: '<h2 id="heading-education">Education</h2><h3>Duquesne
 * **CMS Experience:** WordPress, Timber (WordPress + Sensio Twig)
 * **Responsive Development:** Mobile-First Responsive Web Design
 * **Performance:** Experience with minifying and concatenating JS and CSS, critical CSS and using JavaScript plugins (e.g. respond.js, modernizr, picturefill, loadcss, lazyload)
-* **User Experience:** Experience with wireframing, prototyping and usability testing techniques
+* **User Experience:** Experience with wire-framing, prototyping and usability testing techniques
 * **Version Control:** Github, Bitbucket, Git, SVN
 * **Build Management:** Gulp, Bower, Grunt, Hologram, NodeJS, Webpack
 
@@ -63,7 +47,7 @@ As the accessibility program manager, I have:
 
 * Implemented an accessibility plan for each step of the software development lifecycle and agile process.
 * Released mandatory training and built a resource repository for product owners, designers, developers, quality assurance and customer service representatives.
-* Prioritized and audited several ecommerce sites from all across the globe producing:
+* Prioritized and audited several e-commerce sites from all across the globe producing:
 
   * WCAG 2.1 AA, revised Section 508 and EN 301 549 compliance reports
   * Detailed issues for bug tracking and
@@ -88,7 +72,7 @@ When Blackhawk Network acquired Giftcards.com, I was brought on to help with the
 ### Oncology Nursing Society (2006-2013) Web Designer/Developer
 
 * Designed and developed responsive conference websites ([Connections 2012](https://web.archive.org/web/20120930071721/http://connections.ons.org:80/), Connections 2013 and [Congress 2013](https://web.archive.org/web/20130605025615/http://ibuilder.ons.org)) utilizing HTML5/CSS3 and jQuery
-* Implemented UX techniques such as wireframing, prototyping and usability testing
+* Implemented UX techniques such as wire-framing, prototyping and usability testing
 * Designed and developed [TheCancerJourney.org](https://web.archive.org/web/20140106071808/http://thecancerjourney.org/ "Thank you, way back machine!!!") website and logo (the main part of the site no longer exists)
 * Developed several online courses (coded and designed interactive elements with the course facilitator)
 * Learning Management System (LMS) administrator

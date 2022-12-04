@@ -6,7 +6,8 @@ intro: Two and a half years ago, I pivoted in my career from engineering to
   accessibility program management. Blackhawk Network created their first
   dedicated web accessibility role for me. Within the first year, I developed a
   comprehensive accessibility plan that is being applied globally.
-aside: '<h2 id="heading-education">Education</h2><h3>Duquesne
+aside: >-
+  <h2 id="heading-education">Education</h2><h3>Duquesne
   University</h3><p>Master’s Degree in Media Arts and Technology. Graduated with
   a 4.0 GPA.</p><h3>The Art Institute of Pittsburgh</h3><p>Bachelor’s Degree in
   Multimedia and Web Design. Graduated with a 3.9 and on the Dean’s List.</p><h2
@@ -21,28 +22,11 @@ aside: '<h2 id="heading-education">Education</h2><h3>Duquesne
   href="https://css-tricks.com/smooth-scrolling-accessibility/">Smooth Scrolling
   and Accessibility</a></li></ul><h3>.net Magazine</h3><p>Accessible SVG using
   <code>&lt;object&gt;</code> or <code>&lt;iframe&gt;</code></p><h2
-  id="heading-speaking">Speaking</h2><h3>Abstractions.io August 2019</h3><p><a
-  href="https://abstractions.io/schedule/#Easy%20Peasy%20Accessibility-Heather%20Migliorisi">Easy
-  Peasy Accessibility</a></p><h3>Wordcamp Pittsburgh September 2016</h3><p><a
-  href="https://2016.pittsburgh.wordcamp.org/session/make-wordpress-accessible/">Make
-  WordPress Accessible</a></p><h3>Abstractions.io August 2016</h3><p><a
-  href="https://web.archive.org/web/20160811174223/http://abstractions.io/schedule/#session-full-32">Accessible
-  SVGs</a></p><h3>OSCON Online June 2016</h3><p><a
-  href="http://conferences.oreilly.com/oscon/open-source-us/public/schedule/detail/48453">Make
-  Your Awesome Things Accessible</a></p><h3>Elements June 2016</h3><p><a
-  href="https://web.archive.org/web/20160602204318/https://elements.psu.edu/">Accessibility
-  Implied</a></p><h3>OSCON May 2016</h3><p><a
-  href="https://web.archive.org/web/20161220162925/http://conferences.oreilly.com/oscon/oscon-tx-2016/public/schedule/detail/48453">Make
-  Your Awesome Things Accessible</a></p><h3>CSS Dev Conf 2015</h3><p><a
-  href="https://cssdevconf2015.sched.org/event/3oU2/accessibility-a11ycss">acCeSSibility</a></p><h3>Refresh
-  Pittsburgh</h3><ul><li><a
-  href="https://web.archive.org/web/20210519001736/http://www.refreshpittsburgh.org/2016/01/january-2016-meetup/">An
-  Inclusive Web</a>&nbsp;– Thursday, January 28th, 2016</li><li><a
-  href="https://web.archive.org/web/20210518233949/http://www.refreshpittsburgh.org/2014/09/pittsburgh-accessibility-group-joint-meetup-sept-2014/">Web
-  Accessibility: Overlooked &amp; Unaccounted For</a>&nbsp;– September,
-  2014</li><li><a
-  href="https://web.archive.org/web/20210519002731/http://www.refreshpittsburgh.org/2013/08/august-2013-meetup/">User
-  Testing: The Secret Sauce To Great Meetings</a>&nbsp;– August, 2013</li></ul>'
+  id="heading-speaking">Speaking</h2>
+
+  <h3>Web Directions AAA October/November 2021</h3><p><a href="https://webdirections.org/aaa21/speakers/heather-migliorisi.php">Accessible SVGs</a></p>
+
+  <h3>Abstractions.io August 2019</h3><p><a href="https://abstractions.io/schedule/#Easy%20Peasy%20Accessibility-Heather%20Migliorisi">Easy Peasy Accessibility</a></p><h3>Wordcamp Pittsburgh September 2016</h3><p><a href="https://2016.pittsburgh.wordcamp.org/session/make-wordpress-accessible/">Make WordPress Accessible</a></p><h3>Abstractions.io August 2016</h3><p><a href="https://web.archive.org/web/20160811174223/http://abstractions.io/schedule/#session-full-32">Accessible SVGs</a></p><h3>OSCON Online June 2016</h3><p><a href="http://conferences.oreilly.com/oscon/open-source-us/public/schedule/detail/48453">Make Your Awesome Things Accessible</a></p><h3>Elements June 2016</h3><p><a href="https://web.archive.org/web/20160602204318/https://elements.psu.edu/">Accessibility Implied</a></p><h3>OSCON May 2016</h3><p><a href="https://web.archive.org/web/20161220162925/http://conferences.oreilly.com/oscon/oscon-tx-2016/public/schedule/detail/48453">Make Your Awesome Things Accessible</a></p><h3>CSS Dev Conf 2015</h3><p><a href="https://cssdevconf2015.sched.org/event/3oU2/accessibility-a11ycss">acCeSSibility</a></p><h3>Refresh Pittsburgh</h3><ul><li><a href="https://web.archive.org/web/20210519001736/http://www.refreshpittsburgh.org/2016/01/january-2016-meetup/">An Inclusive Web</a>&nbsp;– Thursday, January 28th, 2016</li><li><a href="https://web.archive.org/web/20210518233949/http://www.refreshpittsburgh.org/2014/09/pittsburgh-accessibility-group-joint-meetup-sept-2014/">Web Accessibility: Overlooked &amp; Unaccounted For</a>&nbsp;– September, 2014</li><li><a href="https://web.archive.org/web/20210519002731/http://www.refreshpittsburgh.org/2013/08/august-2013-meetup/">User Testing: The Secret Sauce To Great Meetings</a>&nbsp;– August, 2013</li></ul>
 ---
 ## Skills
 

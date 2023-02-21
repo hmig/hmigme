@@ -64,6 +64,7 @@ As the accessibility program manager, I have:
 
 When Blackhawk Network acquired Giftcards.com, I was brought on to help with the front-end of the site:
 
+* A leading member of Blackhawk Network's Accessibility Committee that steered the direction the company would take to address the accessibility of Blackhawk’s products and services. Participation in the committee led to my current role in the company.
 * Implemented the mobile optimized purchase flow with ReactJS that all of our products will use
 * Managed the state of accessibility
 * Optimized new areas of the sites to use flexbox and grid

@@ -2,10 +2,11 @@
 layout: layouts/two-column.njk
 title: Senior Accessibility Program Manager
 permalink: /resume.html
-intro: Two and a half years ago, I pivoted in my career from engineering to
-  accessibility program management. Blackhawk Network created their first
-  dedicated web accessibility role for me. Within the first year, I developed a
-  comprehensive accessibility plan that is being applied globally.
+intro: Over the past few years, I have pivoted in my career from software
+  engineering to accessibility program management. As Blackhawk Network’s first
+  (and only) accessibility employee, I developed a comprehensive accessibility
+  program that was implemented across the company globally. I would love the
+  opportunity to do the same for your company.
 aside: >-
   <h2 id="heading-education">Education</h2><h3>Duquesne
   University</h3><p>Master’s Degree in Media Arts and Technology. Graduated with
@@ -49,11 +50,15 @@ As the accessibility program manager, I have:
 
 * Implemented an accessibility plan for each step of the software development lifecycle and agile process.
 * Released mandatory training and built a resource repository for product owners, designers, developers, quality assurance and customer service representatives.
-* Prioritized and audited several e-commerce sites from all across the globe producing:
+* Prioritized and provided quality manual audits for several e-commerce sites from all across the globe producing:
 
   * WCAG 2.1 AA, revised Section 508 and EN 301 549 compliance reports
   * Detailed issues for bug tracking and
   * A roadmap for remediation
+
+* Managed accessibility audit program with internal product teams, while defining and implementing improvements and automation to scale the program, shift quality left and earlier in the development lifecycle
+* Effectively communicate program execution status, key accomplishments, and risks to stakeholders
+* Responded to requests for and shared audit results (conformance reports) with internal stakeholders and customers
 
 ### BlackHawk Network, Giftcards.com (2016 – 2020) Senior Software Engineer
 

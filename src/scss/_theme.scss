@@ -25,17 +25,17 @@
 
 @include dark-mode() {
   --color-bg: #{get-color('dark')};
-  --color-bg-glare: #{get-color('slate')};
+  --color-bg-glare: radial-gradient(ellipse at top left, #020024, transparent),  radial-gradient(circle at center left, #0f20be, transparent),  radial-gradient(ellipse at top right, #f81e9c, transparent),  radial-gradient(ellipse at center, #ff0000, transparent),  radial-gradient(circle at bottom right, #000, transparent);
   --color-text: #B9B8C2;
   --color-selection-text: #{get-color('dark')};
   --color-selection-bg: #{get-color('light')};
-  --color-stroke: #{get-color('slate')};
+  //--color-stroke: #{get-color('slate')};
   --color-theme-primary: #{lighten(get-color('primary'), 50%)};
   --color-theme-primary-glare: #{lighten(get-color('primary-glare'), 50%)};
   --color-action-bg: var(--color-theme-primary-glare);
   --color-action-text: #{get-color('dark')};
   --color-theme-highlight: #{get-color('highlight')};
-  --color-theme-highlight-block: #{get-color('slate')};
+  --color-theme-highlight-block: radial-gradient(ellipse at top left, #020024, transparent),  radial-gradient(circle at center left, #0f20be, transparent),  radial-gradient(ellipse at top right, #f81e9c, transparent),  radial-gradient(ellipse at center, #ff0000, transparent),  radial-gradient(circle at bottom right, #000, transparent);
   --color-theme-feature-text: #fff;
   --color-theme-main-link: linear-gradient(90deg, hotpink, orange);
 }

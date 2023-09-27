@@ -46,6 +46,8 @@ aside: >-
 
 ### BlackHawk Network (2020 – Present) Senior Accessibility Program Manager
 
+While in my engineering role, I became a leading member of Blackhawk Network's Accessibility Committee that steered the direction the company would take to address the accessibility of Blackhawk’s products and services. Participation in the committee led to my current role in the company.
+
 As the accessibility program manager, I have:
 
 * Implemented an accessibility plan for each step of the software development lifecycle and agile process.
@@ -55,7 +57,6 @@ As the accessibility program manager, I have:
   * WCAG 2.1 AA, revised Section 508 and EN 301 549 compliance reports
   * Detailed issues for bug tracking and
   * A roadmap for remediation
-
 * Managed accessibility audit program with internal product teams, while defining and implementing improvements and automation to scale the program, shift quality left and earlier in the development lifecycle
 * Effectively communicate program execution status, key accomplishments, and risks to stakeholders
 * Responded to requests for and shared audit results (conformance reports) with internal stakeholders and customers
@@ -67,8 +68,6 @@ When Blackhawk Network acquired Giftcards.com, I was brought on to help with the
 * Implemented the mobile optimized purchase flow with ReactJS that all of our products will use
 * Managed the state of accessibility
 * Optimized new areas of the sites to use flexbox and grid
-
-While in my engineering role, I became a leading member of Blackhawk Network's Accessibility Committee that steered the direction the company would take to address the accessibility of Blackhawk’s products and services. Participation in the committee led to my current role in the company.
 
 ### Giftcards.com (2013-2016) Senior UI Developer
 
@@ -91,4 +90,3 @@ While in my engineering role, I became a leading member of Blackhawk Network's A
 * Worked as part of a team to design and develop custom interactive elements for Heinz training modules. This project was developed using Flash, Dreamweaver and Photoshop.
 * Designed and developed a complete set of training modules for Sharp Electronics (CD), which entailed a creating a custom player interface using Flash and implementing all of the content for the project.
 * Other eLearning projects included: Sheetz, Ford, and US Steel.
-

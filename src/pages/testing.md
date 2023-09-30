@@ -2,11 +2,15 @@
 layout: layouts/two-column.njk
 title: Senior Accessibility Program Manager
 permalink: /resume.html
-intro: Over the past few years, I have pivoted in my career from software
-  engineering to accessibility program management. As Blackhawk Network’s first
-  (and only) accessibility employee, I developed a comprehensive accessibility
-  program that was implemented across the company globally. I would love the
-  opportunity to do the same for your company.
+intro: >-
+  Over the past few years, I have pivoted in my career from software engineering
+  to accessibility program management. As Blackhawk Network’s first (and only)
+  accessibility employee, I developed a comprehensive accessibility program that
+  was implemented across the company globally. I would love the opportunity to
+  do the same for your company.
+
+
+  Connect with me on [LinkedIn](https://www.linkedin.com/in/hmig/).
 aside: >-
   <h2 id="heading-education">Education</h2><h3>Duquesne
   University</h3><p>Master’s Degree in Media Arts and Technology. Graduated with
